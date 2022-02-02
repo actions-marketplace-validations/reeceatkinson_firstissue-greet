@@ -1,4 +1,4 @@
-name: Issue Bot
+name: Issue Review Greeting
 description: A comment added everytime someone creates a issue 
 
 on: [issues]
