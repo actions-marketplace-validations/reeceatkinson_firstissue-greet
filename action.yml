@@ -1,6 +1,6 @@
 name: Issue Review Greeting
 description: A comment added everytime someone creates a issue 
-author: @reeceatkinson
+author: Reece
 icon: book-open
 
 on: [issues]
