@@ -4,5 +4,7 @@ This GitHub action allows you to make contribors aware that you have recieved th
 INSTALLATION
 Copy and paste the following snippet into your .yml file.
 
+```
 - name: Issue Review Greeting
   uses: reeceatkinson/issuereview-greet@v0.0.2-alpha
+```
