@@ -23,3 +23,6 @@ jobs:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: 'Hi, thanks for taking the time to submit a issue. Great first issue!'
 ```
+
+### Website
+You can also find the README.md at https://reeceatkinson.github.io/firstissue-greet/
